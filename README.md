@@ -1,5 +1,5 @@
 # RESTful-Shopping-Center-App-with-MongoDB
-Express App using MongoDB that has the option to add, edit and remove products.
+Express App using MongoDB that has the option to add, edit and remove products. It has also the option to view products by category.
 
 Technology Used:
 ===============
